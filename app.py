@@ -12,7 +12,7 @@ from sklearn.metrics import accuracy_score
 
 st.set_page_config(
     page_title="HEART DISEASE PREDICTOR",
-    page_icon="❤️",
+    page_icon=".",
     layout="wide"
 )
 
