@@ -5,10 +5,6 @@
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-ML%20Modeling-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
-An interactive machine learning web application that analyzes clinical patient health data to estimate the risk of cardiovascular disease in real time.
-
----
-
 ## 🚀 Live Demo
 
 Access the live interactive application on Streamlit Cloud:  
